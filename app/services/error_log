@@ -1,0 +1,28 @@
+[27-Mar-2019 08:57:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[27-Mar-2019 08:57:56 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[27-Mar-2019 08:58:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[27-Mar-2019 08:58:07 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[27-Mar-2019 08:58:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[27-Mar-2019 08:58:28 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[27-Mar-2019 08:58:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[27-Mar-2019 08:58:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[27-Mar-2019 08:58:41 UTC] PHP Warning:  API::get_count_result(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:20:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:20:36 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[19-Apr-2019 14:20:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:20:36 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[19-Apr-2019 14:21:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:21:37 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34
+[19-Apr-2019 14:21:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:21:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:21:46 UTC] PHP Warning:  API::get_count_result(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:21:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:21:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:21:47 UTC] PHP Warning:  API::get_count_result(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:22:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:22:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:22:45 UTC] PHP Warning:  API::get_count_result(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:22:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '192.168.23.208' (113) in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 27
+[19-Apr-2019 14:22:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[19-Apr-2019 14:22:59 UTC] PHP Warning:  API::get_count_result(): Couldn't fetch mysqli in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 1005
+[22-Apr-2019 10:37:58 UTC] PHP Notice:  Undefined index: x in /home/ll608mxbob5n/snhealthcenter.com/app/services/api.php on line 34

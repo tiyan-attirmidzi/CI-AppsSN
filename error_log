@@ -1,0 +1,1 @@
+[08-Feb-2019 19:27:13 Asia/Makassar] PHP Fatal error:  Cannot declare class Order, because the name is already in use in /home/ll608mxbob5n/snhealthcenter.com/application/controllers/patient/Order.php on line 270
